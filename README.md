@@ -4,7 +4,11 @@ SafeSpot is a small community-awareness platform for reporting everyday safety c
 
 The goal is simple: help people notice patterns in their neighbourhood while keeping the person reporting safe and anonymous.
 
+**Live frontend:** [Open SafeSpot](https://safespot-frontend-sigma.vercel.app)
+
 > SafeSpot is not for emergencies. If someone is in immediate danger, they should contact local emergency services.
+
+> This public link is a frontend preview. The FastAPI service remains local until a backend host is connected, so submitting and loading live report data is not enabled in the preview yet.
 
 ## Why I built it
 
