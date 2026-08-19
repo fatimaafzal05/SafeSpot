@@ -1,0 +1,1 @@
+export function EmergencyNotice() { return <aside className="notice" role="note"><strong>Non-emergency notice:</strong> SafeSpot is for non-emergency community awareness. If there is immediate danger, contact local emergency services.</aside>; }

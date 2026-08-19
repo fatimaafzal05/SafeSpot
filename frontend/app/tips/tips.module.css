@@ -1,0 +1,1 @@
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin:26px 0}.grid h2{color:var(--navy);font-size:1.2rem}.grid p{color:var(--muted);line-height:1.65}.number{color:var(--accent);font-size:.85rem;font-weight:800;letter-spacing:.08em}@media(max-width:620px){.grid{grid-template-columns:1fr}}

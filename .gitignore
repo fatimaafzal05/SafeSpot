@@ -1,0 +1,15 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/safespot.db
+
+# Node / Next
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/*.tsbuildinfo
+
+# Environment files
+.env
+backend/.env
